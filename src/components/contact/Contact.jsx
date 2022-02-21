@@ -88,6 +88,7 @@ export default function Contact() {
       <br />
       <br />
       <br />
+      <br />
       <div className="footer">
         <p style={{marginTop: 1}}>Created By <span>Sujit Kumar</span> | © 2022 All rights reserved</p>
       </div>
