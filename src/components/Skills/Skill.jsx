@@ -103,8 +103,6 @@ export default function Skill() {
                                 {  item.url}
                                </div>
                              
-                                
-
 
                                     <h1>{item.title1}</h1>
                                 </div>
