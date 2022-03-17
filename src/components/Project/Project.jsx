@@ -37,7 +37,7 @@ export default function Project() {
             linkGithub: 'https://github.com/sujitkumarmasai/Adidas',
             // linkBlog:
             //     'https://medium.com/p/6d1c596086ea/edit',
-            linkBlog: 'https://www.adidas.co.in/',
+            linkBlog: 'https://project-adidas.vercel.app/',
             title: 'Adidas',
             desc: 'A web application to buy spoorts related  items..',
             img: 'https://www.seobility.net/en/wiki/images/thumb/0/07/Adidas_Facebook.PNG/600px-Adidas_Facebook.PNG',
